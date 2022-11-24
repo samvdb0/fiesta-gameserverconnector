@@ -1,6 +1,5 @@
 // fiesta-gameserverconnector - Sam "saze" V. 2022
 
-const xml = require('xml');
 const parser = require('body-parser');
 require('body-parser-xml')(parser);
 
